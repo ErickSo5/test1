@@ -9,5 +9,7 @@
     <h1>
         Alooo a ala pagina de Erick :D
     </h1>
+    <br>
+    <a href="about.php"> Acerca de</a>
 </body>
 </html>
